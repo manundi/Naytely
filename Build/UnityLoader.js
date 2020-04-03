@@ -2268,7 +2268,7 @@ var UnityLoader = UnityLoader || {
         var i = {
             url: t,
             onProgress: UnityLoader.Progress.handler,
-            //compatibilityCheck: UnityLoader.compatibilityCheck,
+            compatibilityCheck: UnityLoader.compatibilityCheck,
             Module: {
                 deinitializers: [],
                 intervals: {},
