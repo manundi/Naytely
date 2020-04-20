@@ -49,6 +49,7 @@
   
   color: #182424;
   
+  
 }
 
 #valkoinenTeksti{
@@ -60,6 +61,7 @@
   width: 30vw;
   padding-top: 50px;
   padding-left: 100px;
+  
 
   
 font-style: italic;
@@ -93,6 +95,11 @@ a{
 #kauppaLinkki{
   width: 150px;
 padding-bottom: 50px;
+}
+
+#kuva{
+
+  width: 1024px; 
 }
 
 
